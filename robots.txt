@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:/assets/
+Disallow:/images/
+Disallow:/images/
+Disallow:/assets/
+Disallow:/img/
+Disallow:/files/
